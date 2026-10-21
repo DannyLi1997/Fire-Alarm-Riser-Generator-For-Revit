@@ -1,2 +1,26 @@
-# Fire-Alarm-Riser-Tool-For-Revit
-Revit add-in that builds fire alarm riser diagrams automatically from floor plan device data. Handles SLC and notification circuits, wire labels and colors, EOL resistors, and stair risers, with presets for Autocall and Gamewell-FCI panels. Revit 2019-2025+.
+# FireAlarmRiser
+
+A Revit add-in that draws fire alarm riser diagrams for you, straight from the devices on your floor plans.
+
+> Showcase repository. The source code is private.
+
+## Why
+On a high-rise project, the riser diagram can take days to draw by hand, and it has to match the floor plans device for device. FireAlarmRiser reads the devices, addresses, and circuits already in the model and lays out the riser in minutes.
+
+## Features
+- Reads device addresses, panels, and circuits from floor plan views
+- Draws SLC devices in floor plan wiring order
+- Handles strobe, speaker, and combined notification circuits, each with its own home run to the control panel
+- Keeps wire labels and colors consistent per run and creates missing line styles automatically
+- Places end-of-line (EOL) resistors and standard circuit notes
+- Draws stair risers as separate columns for stair speakers, smoke detectors, and sprinkler modules
+- Shows panels, power supplies, and surge suppressors with their modules
+- Manufacturer presets for Autocall and Gamewell-FCI, plus a custom mode
+- Tabbed settings window and a code-signed build
+- Supports Revit 2019 through 2025+
+
+## Built with
+C# · .NET · Revit API · Windows Forms · Visual Studio
+
+## Screenshots
+<!-- Example: ![Generated riser](screenshots/riser.png) -->
