@@ -25,3 +25,6 @@ C# · .NET · Revit API · Windows Forms · Visual Studio
 ## Screenshots
 <!-- Example: ![Generated riser](screenshots/riser.png) -->
 <img width="1182" height="852" alt="image" src="https://github.com/user-attachments/assets/148f6aa5-3bf2-4a35-87aa-77fac023d5da" />
+<img width="1182" height="887" alt="image" src="https://github.com/user-attachments/assets/e42f65a2-ddc4-45dc-8355-2257d8ac9fe7" />
+<img width="1182" height="887" alt="image" src="https://github.com/user-attachments/assets/175045b1-0c82-4bad-9cf7-7c1ad0f97078" />
+<img width="1182" height="887" alt="image" src="https://github.com/user-attachments/assets/1531db5e-5b0e-47c4-9f1d-2fec189dd774" />
