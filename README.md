@@ -1,4 +1,4 @@
-# FireAlarmRiser
+# Fire Alarm Riser Tool For Revit
 
 A Revit add-in that draws fire alarm riser diagrams for you, straight from the devices on your floor plans.
 
