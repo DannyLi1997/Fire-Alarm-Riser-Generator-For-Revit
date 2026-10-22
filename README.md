@@ -47,4 +47,5 @@ Control real drafting dimensions such as device spacing, row spacing, and device
 ### 5. Generated riser
 One floor's electrical room as generated: wire trough, amplifier, power, and module panels with surge suppressors and power notes, the SLC loop on the left, and speaker and strobe circuits on the right with wire labels, colors, EOL resistors, and circuit notes placed automatically.
 
-<img width="1182" height="887" alt="image" src="https://github.com/user-attachments/assets/1531db5e-5b0e-47c4-9f1d-2fec189dd774" />
+<img width="3255" height="1026" alt="Screenshot 2026-10-21 181538" src="https://github.com/user-attachments/assets/f6024508-c9f9-4527-8d4f-b91c732fcb98" />
+
