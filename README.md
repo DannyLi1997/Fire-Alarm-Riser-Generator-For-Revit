@@ -5,7 +5,7 @@ A Revit add-in that draws fire alarm riser diagrams for you, straight from the d
 > Showcase repository. The source code is private.
 
 ## Why
-On a high-rise project, the riser diagram can take days to draw by hand, and it has to match the floor plans device for device. FireAlarmRiser reads the devices, addresses, and circuits already in the model and lays out the riser in minutes.
+On a high-rise project, the riser diagram can take days to draw by hand, and it has to match the floor plans device for device. Fire Alarm Riser Generator reads the devices, addresses, and circuits already in the model and lays out the riser in minutes.
 
 ## Features
 - Reads device addresses, panels, and circuits from floor plan views
